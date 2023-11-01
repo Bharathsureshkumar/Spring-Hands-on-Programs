@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Collection Injection" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.Collection.Injectiontest.CollectionInjectionApplication" />
+    <module name="Injection" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
